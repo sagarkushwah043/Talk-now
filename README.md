@@ -27,5 +27,5 @@ A full-featured real-time chat and video calling website built using the **MERN 
 - JWT (Authentication)
 - REST APIs
 
-## 📁 Project Structure
+
 
